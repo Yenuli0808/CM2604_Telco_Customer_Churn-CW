@@ -108,5 +108,5 @@ Models were evaluated using:
 
 The best performing model was selected based on overall performance and generalization ability.
 
-## Done SMOTE as the data set was imbalanced but for final evaluation to choose the best model it was not used as it synthetic data and proned to overfitt when i try to use the method. SO i tried this as only a experimental method
+Done SMOTE as the data set was imbalanced but for final evaluation to choose the best model it was not used as it synthetic data and proned to overfitt when i try to use the method. SO i tried this as only a experimental method
 
